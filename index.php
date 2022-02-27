@@ -7,7 +7,7 @@
         <title>Simple PHP App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="web/assets/css/bootstrap.min.css" rel="stylesheet">
-        <style>body {margin-top: 40px; background-color: #333} </style>
+        <style>body {margin-top: 40px; background-color: white } </style>
         <link href="web/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
     </head>
 
